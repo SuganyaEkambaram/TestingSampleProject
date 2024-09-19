@@ -4,3 +4,12 @@ this line is added as part developer 2 in feature barnch
 
 Added this line after solved the conflicts
 
+
+Day 3 task
+1. Git clone from remote repository gitlab or github
+2. Pull or push changes from local and remote 
+3. Merge Request or pull Request using branch from local
+4. Compare branch in remote repository
+5. add tag in local and push to remote
+6. Remote and local branch delete
+
